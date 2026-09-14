@@ -8,7 +8,7 @@
 
 `student` · `14 years old`
 
-Highly interested in low-level programming, minimal systems and how computers work
+Highly interested in low-level programming, minimal systems and about how computers work
 </div>
 
 Joke before starting:
@@ -22,8 +22,7 @@ Some of my interests are:
 - Audio
 - Unix philosophy and Plan 9 ideas (I'm a professional 9larper)
 - Operating Systems
-- Minimal software
-- Software design
+- Minimal software design
 - Reusable tools
 
 I prefer small programs doing one thing at a time rather than large systems.
