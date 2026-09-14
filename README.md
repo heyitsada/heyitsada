@@ -63,13 +63,19 @@ I have so many computers because why not, so this is a list of things I use:
 - DAW: Ableton Live
 - Plan9port
 
+## More things about me
+- Timezone: UTC-6
+- Country: Mexico
+- Pronouns: She/Her
+- Job: Instead of farming aura I should farm curriculum
+
 ## Things I like outside technology
 - Music: I like playing piano
 - The Beatles: My Obsession
 - Bread: I just like it
 
 ## Contact
-You can contact me using spanish or english as language, I speak both.
+You can contact me using Spanish or English as language, I speak both.
 - Discord: polmacarni__
 
 (Not mail, I'm not serious/professional enough to use email)
