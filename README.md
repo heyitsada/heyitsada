@@ -1,7 +1,11 @@
 <div align="center">
+  
 <img src="assets/spin.gif" alt="deco image, not really useful">
+
 # whoami
+
 ## ada
+
 `student` · `14 years old`
 
 Highly interested in low-level programming, minimal systems and how computers work
